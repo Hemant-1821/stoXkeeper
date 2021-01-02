@@ -1,0 +1,27 @@
+.CompanyChartContainer{
+  margin-top: 0.4%;
+  margin-left: 3%;
+  border: 2px solid transparent; 
+  width: 90%;
+  background-color: #0c1922;
+  padding: 20px 20px 20px 20px;
+}
+
+.graphButton{
+  margin: 5px 5px 5px 5px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: transparent;
+  background: transparent;
+  color: #FFD700;
+  width: 70px;
+  height: 30px;
+}
+
+.graphButton:hover{
+  border-color: #FFD700;
+}
+
+.active{
+  border-color: #FFD700;
+}

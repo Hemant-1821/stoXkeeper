@@ -1,0 +1,48 @@
+.CompanyContainer{
+    display: flex;
+    background-color: #0c1922;
+    height: 210px;
+    margin-top: 0.4%;
+    margin-left: 3%;
+    border: 2px solid transparent; 
+    border-radius: 20px;
+    width: 93%;
+    color: #FFD700;
+}
+
+.CompanyHead{
+    font-family: 'Copse', serif;
+    text-transform: capitalize;
+}
+
+.CompanyFieldContainer{
+    margin: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.CompanyName{
+    width: 300px;
+    padding: 0px 10px 10px 10px;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-weight: bold;
+}
+
+.CompanyDetails{
+    padding: 10px 20px 20px 20px;
+    display: block;
+    width: 70%;
+    flex-grow: 3;
+}
+
+.CompanyAbout{
+    padding: 10px 20px 20px 0px;
+    display: block;
+    flex-grow: 1;
+    align-content: flex-start;
+}
+
+.CompanyAboutPara {
+    font-family: 'Quattrocento Sans', sans-serif;
+}

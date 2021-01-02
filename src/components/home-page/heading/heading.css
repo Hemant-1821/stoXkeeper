@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Copse&family=Goldman:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Texturina:ital,wght@1,200&display=swap');
+
+.HeadingContainer{
+  margin-left: 5%;
+}
+
+.graph{
+  float: right;
+  margin-right: 5%;
+  width:650px;
+  height:420px;
+}
+
+.head-para{
+  font-size: 2rem;
+  color: #ffd700;
+}
+
+.typical{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#ffd700;
+    font-size:40px; 
+    text-align: center;
+    font-family: 'Goldman', cursive;
+      }
+@keyframes breath {
+  0%   { background-size: 100% auto; }
+  50% { background-size: 140% auto; }
+  100% { background-size: 100% auto; }
+}
+
+.coin{
+  width:45px;
+  margin-top: 5px;
+  height:45px;
+  animation: rotation 2s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+  .brand{
+    display: inline;
+    background:-webkit-linear-gradient(315deg, #f1dfd1 0%, #f6f0ea 74%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.name{
+  font-size: 7rem;
+  color: #ffd700;
+  background: -webkit-linear-gradient(305deg, #f9484a 0%, #fbd72b 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: block;
+  width: 580px;
+  margin-top: 8px;
+}
+.tagline{
+  padding: 0 0 0 0;
+  margin:0 0 0 0;
+  font-size: 2rem;
+  color: #ffd700;
+}
+
+.explore { 
+  margin-top: 10px;
+  background-color: transparent;
+  color: #ffd700; 
+  letter-spacing: 1px; 
+  font-family: 'Texturina', serif;  
+  padding: 10px 20px 10px 20px;
+  font-size: 25px; 
+  border: 2px solid transparent; 
+  cursor: pointer;
+  /* background-color: #b5c327; */
+} 
+
+/*creating animation effect*/ 
+.explore:hover { 
+  border-radius: 25px;
+  border: 2px solid #ffd700; 
+} 
+
+.heading-anim{
+  display: block;
+  height: 80px;
+  margin-top: 120px;
+  align-items: center;
+}

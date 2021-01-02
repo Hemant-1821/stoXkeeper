@@ -1,0 +1,11 @@
+.searchContainer{
+    /* width: 10%; */
+    z-index: 500;
+    margin-right: 3%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.searchButton{
+    height: 2%;
+}

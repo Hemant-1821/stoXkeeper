@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="Layer_1" data-name="Layer 1" viewBox="0 0 730 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1,.cls-2{fill:none;stroke-miterlimit:10;stroke-width:2px;}.cls-1{stroke:#52e3c2;}.cls-2{stroke:#fff;}</style>
+  </defs>
+  <path class="cls-1" d="M586,50a30,30,0,0,0-16.58,55H577a10,10,0,0,1,8.65,5H586a30,30,0,0,0,0-60Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M70,395h40a20,20,0,0,1,20,20v10a0,0,0,0,1,0,0H50a0,0,0,0,1,0,0V415A20,20,0,0,1,70,395Z" style="stroke: rgb(255, 215, 0);"/>
+  <polygon class="cls-2" points="432 405 322 405 332 345 422 345 432 405" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="167" y1="125" x2="587" y2="125" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="646.65" y1="405" x2="566.65" y2="405" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="185" x2="497" y2="185" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="187" y1="185" x2="217" y2="185" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="187" y1="145" x2="217" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="227" y1="145" x2="237" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="247" y1="145" x2="257" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="267" y1="145" x2="277" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="287" y1="145" x2="297" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="307" y1="145" x2="317" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="327" y1="145" x2="337" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="347" y1="145" x2="357" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="497" y1="145" x2="507" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="517" y1="145" x2="527" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="537" y1="145" x2="547" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="557" y1="145" x2="567" y2="145" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="187" y1="305" x2="237" y2="305" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-1" x1="187" y1="325" x2="257" y2="325" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-1" x1="357" y1="325" x2="427" y2="325" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="200" x2="547" y2="200" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="225" x2="487" y2="225" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="240" x2="567" y2="240" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="255" x2="547" y2="255" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="270" x2="567" y2="270" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="295" x2="487" y2="295" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="310" x2="567" y2="310" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="467" y1="325" x2="547" y2="325" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-2" x1="5" y1="425" x2="725" y2="425" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M666.65,325h10a0,0,0,0,1,0,0v50a0,0,0,0,1,0,0h-10a20,20,0,0,1-20-20V345a20,20,0,0,1,20-20Z" transform="translate(1323.3 700) rotate(-180)" style="stroke: rgb(255, 215, 0);"/>
+  <polyline class="cls-2" points="187 216.42 227 224.03 267 210.08 307 217.69 347 205 387 227.88 427 207.54" style="stroke: rgb(255, 215, 0);"/>
+  <polyline class="cls-2" points="187 236.63 227 245.52 267 196.63 307 240.44 347 226.48 387 245.37 427 234.1" style="stroke: rgb(255, 215, 0);"/>
+  <polyline class="cls-2" points="187 274.63 227 275.52 267 266.63 307 278.44 347 266.48 387 277.37 427 272.1" style="stroke: rgb(255, 215, 0);"/>
+  <polyline class="cls-2" points="187 256.65 227 263 267 234.12 307 256.65 347 247.77 387 261.73 427 250.31" style="stroke: rgb(255, 215, 0);"/>
+  <line class="cls-1" x1="272" y1="325" x2="342" y2="325" style="stroke: rgb(255, 215, 0);"/>
+  <rect class="cls-2" x="587" y="145" width="130" height="20" transform="translate(1304 310) rotate(-180)" style="stroke: rgb(255, 215, 0);"/>
+  <polyline class="cls-2" points="529 105 529 30 689 30 689 125 587 125" style="stroke: rgb(255, 215, 0);"/>
+  <rect class="cls-2" x="647" y="125" width="20" height="20" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M191,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H187a0,0,0,0,1,0,0v-4A4,4,0,0,1,191,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M221,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H217a0,0,0,0,1,0,0v-4A4,4,0,0,1,221,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M251,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H247a0,0,0,0,1,0,0v-4A4,4,0,0,1,251,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M281,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H277a0,0,0,0,1,0,0v-4A4,4,0,0,1,281,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M311,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H307a0,0,0,0,1,0,0v-4A4,4,0,0,1,311,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M341,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H337a0,0,0,0,1,0,0v-4A4,4,0,0,1,341,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M371,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H367a0,0,0,0,1,0,0v-4A4,4,0,0,1,371,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M401,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H397a0,0,0,0,1,0,0v-4A4,4,0,0,1,401,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M431,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H427a0,0,0,0,1,0,0v-4A4,4,0,0,1,431,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M491,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H487a0,0,0,0,1,0,0v-4A4,4,0,0,1,491,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M521,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H517a0,0,0,0,1,0,0v-4A4,4,0,0,1,521,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M551,397h12a4,4,0,0,1,4,4v4a0,0,0,0,1,0,0H547a0,0,0,0,1,0,0v-4A4,4,0,0,1,551,397Z" style="stroke: rgb(255, 215, 0);"/>
+  <circle class="cls-2" cx="654" cy="58" r="8" style="stroke: rgb(255, 215, 0);"/>
+  <circle class="cls-2" cx="654" cy="97" r="8" style="stroke: rgb(255, 215, 0);"/>
+  <rect class="cls-2" x="379.43" y="5" width="40" height="100" transform="translate(798.86 110) rotate(-180)" style="stroke: rgb(255, 215, 0);"/>
+  <polyline class="cls-2" points="459.43 105 459.43 25 419.43 25 419.43 105" style="stroke: rgb(255, 215, 0);"/>
+  <rect class="cls-2" x="319.43" y="25" width="40" height="80" transform="translate(678.86 130) rotate(-180)" style="stroke: rgb(255, 215, 0);"/>
+  <rect class="cls-2" x="359.43" y="5" width="20" height="100" transform="translate(738.86 110) rotate(-180)" style="stroke: rgb(255, 215, 0);"/>
+  <rect class="cls-2" x="259.43" y="25" width="40" height="80" transform="translate(558.86 130) rotate(-180)" style="stroke: rgb(255, 215, 0);"/>
+  <rect class="cls-2" x="299.43" y="5" width="20" height="100" transform="translate(618.86 110) rotate(-180)" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M566.65,325H587V115a10,10,0,0,0-10-10H177a10,10,0,0,0-10,10V335a10,10,0,0,0,10,10H566.65Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M566.65,405H167v10a10,10,0,0,0,10,10H577a10,10,0,0,0,4-.83A20,20,0,0,1,566.65,405Z" style="stroke: rgb(255, 215, 0);"/>
+  <path class="cls-2" d="M586.65,325h40a20,20,0,0,1,20,20v80a0,0,0,0,1,0,0h-80a0,0,0,0,1,0,0V345A20,20,0,0,1,586.65,325Z" transform="translate(1213.3 750) rotate(-180)" style="stroke: rgb(255, 215, 0);"/>
+</svg>

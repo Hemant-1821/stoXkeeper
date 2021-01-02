@@ -1,0 +1,8 @@
+.inactiveLink {
+    pointer-events: none;
+    cursor: default;
+ }
+ .meter{
+     margin-left: 450px;
+     margin-bottom: 90px;
+ }
