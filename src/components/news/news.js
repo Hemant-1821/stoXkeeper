@@ -18,7 +18,7 @@ class News extends Component{
       headers : new Headers({
         'Content-type': 'application/json',
         'x-rapidapi-host': 'yahoo-finance15.p.rapidapi.com',
-        'x-rapidapi-key': 'e1575a1859msh964b4f514104d3ap1db78ejsne4a6db7f8793'
+        'x-rapidapi-key': 'e1575a1859msh964b4f514104d3ap1db78ejsne4a6db7'
       })
     });
     const data = await response.json();
