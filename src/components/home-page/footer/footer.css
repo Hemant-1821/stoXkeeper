@@ -1,52 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&family=Yeon+Sung&display=swap');
 
-/* <<<<<<< HEAD
-  
-
-.footer-container{
-  margin-left: 5%;
-  margin-right: 5%;
-}
-
 .footer{
-    background-color: #1b1b1b;
-    background-color: #d99058;
-    background-image: linear-gradient(315deg, #d99058 0%, #f8de7e 74%);
-======= */
-/* .footer{
-    /* background-color: #1b1b1b; */
-    /* background-color: #d99058; */
-/* background-image: linear-gradient(315deg, #d99058 0%, #f8de7e 74%); */
-
-
-.hr-text {
-  line-height: 1em;
-  position: relative;
-  outline: 0;
-  border: 0;
-   color: yellow; 
-  text-align: center;
-  height: 1.5em;
-  opacity: .5;
-font-size: 30px;
+    color: #FFD700;
 }
 
 a { 
-    padding: 20px 20px; 
+    padding: 10px 10px; 
     display: inline-block; 
-     
-    letter-spacing: 2px; 
-
-    text-decoration: none; 
-    font-size: 1em; 
-    overflow: hidden; 
-    
-    
 } 
-
-
-
-  
   .footer .footer-left,
   .footer .footer-center,
   .footer .footer-right {
@@ -58,61 +19,40 @@ a {
   /* footer left*/
   
   .footer .footer-left {
-    width: 70%;
     padding-right: 15px;
   }
   
   .footer .about {
     line-height: 20px;
-/* <<<<<<< HEAD
-    color: #ffffff;
     font-size: 18px;
     font-weight: 100;
     margin-top: 15px;
-    color:black;
+    color:#FFD700;
     margin-left: 3%;
   }
   
   .footer .about span {
     display: block;
-    color: #ffffff;
     font-size: 40px;
     font-weight: bold;
     font-family: 'Yeon Sung', cursive;
     margin-bottom: 40px;
-    
-    color:black;
-======= */
-
-    color: #FFD700;
-    font-size: 20px;
-    margin-top: 20px;
-    margin-left: 18%;
-    margin-right: 18%;
-    text-align: center;
-/* >>>>>>> fbcb78b940eef8b0f6107755afa74d8188355cd6 */
+    color:#FFD700;
   }
   
   .footer .icons {
     margin-top: 25px;
-/* <<<<<<< HEAD
     margin-left: 3%;
-======= */
-    margin-left: 40%;
-/* >>>>>>> fbcb78b940eef8b0f6107755afa74d8188355cd6 */
   }
   
   .footer .icons a {
     display: inline-block;
-    width: 40px;
-    height: 35px;
+    width: 20px;
+    height: 15px;
     cursor: pointer;
     border-radius: 5px;
     font-size: 20px;
-    color: #ffffff;
-    line-height: 35px;
-    margin-right: 3px;
-    margin-bottom: 5px;
+    color: #FFD700;
   }
   .footer .icons a:hover { 
     color:#FFD700; 
@@ -120,15 +60,6 @@ a {
     box-shadow: 0 0 50px #182d48; 
 } 
 
-
-
-
-  
- 
-  
-  
-  
-  
   /* footer right*/
   
   .footer .footer-right {
@@ -185,7 +116,4 @@ a {
     .footer .footer-center i {
       margin-left: 0;
     }
-  }
-  .mail{
-    
   }

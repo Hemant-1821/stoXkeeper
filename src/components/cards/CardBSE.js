@@ -40,7 +40,6 @@ const FlippyStyle = {
         {/* <p className='img-heading'>Tech Mahindra</p> */}
       </FrontSide>
       <BackSide className="back-card">
-        <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
         <Link to={{
                   pathname: '/companydetails/TECHMAHINDRA',
                   description:'TECHMAHINDRA'
@@ -58,7 +57,7 @@ const FlippyStyle = {
           </FrontSide>
           <BackSide className="back-card">
 
-            <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+  
             <Link to={{
                     pathname: '/companydetails/LT',
                     description:'LT'
@@ -77,7 +76,7 @@ const FlippyStyle = {
             </FrontSide>
             <BackSide className="back-card">
 
-              <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+    
               <Link to={{
                     pathname: '/companydetails/INFOSYS',
                     description:'INFOSYS'
@@ -114,7 +113,7 @@ const FlippyStyle = {
                 </FrontSide>
                 <BackSide className="back-card">
 
-                  <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+        
                   <Link to={{
                     pathname: '/companydetails/RELIANCE',
                     description: 'RELIANCE'
@@ -132,7 +131,7 @@ const FlippyStyle = {
                   </FrontSide>
                   <BackSide className="back-card">
 
-                    <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+          
                     <Link to={{
                     pathname: '/companydetails/AIRTEL',
                     description:'AIRTEL'
@@ -150,7 +149,7 @@ const FlippyStyle = {
                     </FrontSide>
                     <BackSide className="back-card">
   
-                      <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+            
                       <Link to={{
                         pathname: '/companydetails/HCL',
                         description:'HCL'
@@ -169,7 +168,7 @@ const FlippyStyle = {
                       </FrontSide>
                       <BackSide className="back-card">
     
-                        <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+              
                         <Link to={{
                           pathname: '/companydetails/SBI',
                           description:'SBI'
@@ -189,7 +188,7 @@ const FlippyStyle = {
                         </FrontSide>
                         <BackSide className="back-card">
       
-                          <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+                
                           <Link to={{
                             pathname: '/companydetails/MICROSOFT',
                             description:'MICROSOFT'
@@ -208,7 +207,7 @@ const FlippyStyle = {
                           </FrontSide>
                           <BackSide className="back-card">
         
-                            <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+                  
                             <Link to={{
                               pathname: '/companydetails/APPLE',
                               description:'APPLE'
@@ -227,7 +226,7 @@ const FlippyStyle = {
                             </FrontSide>
                             <BackSide className="back-card">
           
-                              <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+                    
                               <Link to={{
                                 pathname: '/companydetails/AMAZON',
                                 }}  className="card-button">Graph
@@ -245,7 +244,7 @@ const FlippyStyle = {
                               </FrontSide>
                               <BackSide className="back-card" >
             
-                                <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+                      
                                 <Link to={{
                                   pathname: '/companydetails/ALPHABET',
                                   description:'ALPHABET'
@@ -264,7 +263,7 @@ const FlippyStyle = {
                                 </FrontSide>
                                 <BackSide className="back-card">
               
-                                  <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+                        
                                   <Link to={{
                                     pathname: '/companydetails/FACEBOOK',
                                     description:'FACEBOOK'
@@ -283,7 +282,7 @@ const FlippyStyle = {
                                   </FrontSide>
                                   <BackSide className="back-card">
                 
-                                    <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+                          
                                     <Link to={{
                                       pathname: '/companydetails/INTEL',
                                       description:'INTEL'
@@ -302,7 +301,7 @@ const FlippyStyle = {
                                     </FrontSide>
                                     <BackSide className="back-card">
                   
-                                      <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+                            
                                       <Link to={{
                                         pathname: '/companydetails/ADOBE',
                                         description:'ADOBE'
@@ -321,7 +320,7 @@ const FlippyStyle = {
                                       </FrontSide>
                                       <BackSide className="back-card">
                     
-                                        <Link to="/" className="card-button">3Yr. return</Link><br/><br/>
+                              
                                         <Link to={{
                                           pathname: '/companydetails/NETFLIX',
                                           description:'NETFLIX'
