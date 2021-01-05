@@ -7,7 +7,7 @@ import './CompanyDashboard.css';
 const CompanyDetails = (props) => {
     const [Data, updateData] = useState({});
     const API = axios.create({
-    baseURL: "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol="+props.companyCode+"&apikey=R96R6264N1DFR7E3",
+    baseURL: "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol="+props.companyCode+"&apikey="+process.env.REACT_APP_ALPHAVANTAGE,
     });
     var data = {};
 
